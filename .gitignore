@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Inputs / outputs
+input_images/*
+!input_images/.gitkeep
+outputs/
+results/
+batch_results*/
+FAST_V2*_RESULTS/
+*.csv
+
+# Model/cache
+.cache/
+huggingface/
+models/
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Secrets
+.env
+*.env
+token.txt
+secrets.*

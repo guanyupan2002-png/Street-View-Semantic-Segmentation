@@ -1,0 +1,10 @@
+transformers>=4.57,<5
+huggingface-hub<1.0
+accelerate
+safetensors
+pandas
+matplotlib
+pillow
+scikit-learn
+tqdm
+opencv-python

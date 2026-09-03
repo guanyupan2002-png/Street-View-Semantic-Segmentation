@@ -1,0 +1,11 @@
+{
+  "input_dir": "./input_images",
+  "output_dir": "./outputs",
+  "max_images": 3,
+  "recursive": true,
+  "resume": true,
+  "save_summary_image": true,
+  "save_label_map": true,
+  "fast_use_fp16_dino": true,
+  "fast_use_fp16_sam": true
+}
